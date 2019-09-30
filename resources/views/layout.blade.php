@@ -58,7 +58,7 @@
                             </div>
                         </div>
                         <nav id="menu" class="d-none d-lg-block">                            <ul>                                
-                                <li><a href="{{ route('home') }}">Inicio</a></li>                                
+                                <li><a href="{{ route('home') }}">Inicio Cam</a></li>                                
                                 <li><a href="{{ route('about') }}">Candidato</a></li>
                                 <li><a href="{{ route('education') }}">Imagenes</a></li>
                                 <li><a href="{{ route('Health') }}">Videos</a></li>
